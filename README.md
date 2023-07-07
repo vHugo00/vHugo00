@@ -1,5 +1,5 @@
 ### Olá 👋
-### Melhor do que ontem, pior do que amanha🚀
+### Melhor do que ontem, pior do que amanha.🚀
 <!--
 **vHugo00/vHugo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

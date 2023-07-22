@@ -1,5 +1,4 @@
 ### Olá 👋
-### Seja Bem Vindo
 ### Hoje melhor do que ontem, amanhã melhor do que hoje!🚀
 <!--
 **vHugo00/vHugo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
